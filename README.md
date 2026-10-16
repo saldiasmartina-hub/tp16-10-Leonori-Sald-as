@@ -1,4 +1,4 @@
-# Pipeline de control de presión arterial (Leonori-Saldías)
+# Pipeline de control de presión arterial (Leonori Seara-Saldías-Beribé)
 
 Programa en Python (solo biblioteca estándar) que lee mediciones de presión arterial en CSV o JSON, descarta los registros con errores dejando constancia del motivo y genera un resumen por grupo del estudio.
 
