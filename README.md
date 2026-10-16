@@ -40,5 +40,6 @@ Si todo es correcto se imprime `Todas las pruebas pasaron.`
 - El umbral de hipertensión (140 mmHg) es un criterio didáctico simplificado y no un diagnóstico clínico.
 
 ## Integrantes
-- Francisco Leonori
+- Francisco Leonori Seara
 - Martina Saldías
+- Renzo Beribé
